@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @Glasscle. I learn Python on my free time, since March 2022. 
